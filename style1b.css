@@ -1,0 +1,23 @@
+body,h1,h2,o{
+    margin:0;
+    auto:0;
+
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    line-height:1.6;
+    
+
+}
+header{
+        background-color:#333;
+        color:#fff;
+        text-align:center;
+        padding:1rem;
+}
+main{
+    padding:2rem;
+}
+.profile{
+    
+}
